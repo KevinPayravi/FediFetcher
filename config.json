@@ -1,5 +1,6 @@
 {
   "server": "payravi.xyz",
   "home-timeline-length": 200,
+  "backfill-mentioned-users": 0,
   "from-notifications": 1
 }
