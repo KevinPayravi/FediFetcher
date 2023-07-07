@@ -1,7 +1,5 @@
 {
   "server": "payravi.xyz",
   "home-timeline-length": 200,
-  "max-followings": 20,
-  "max-followers": 20,
   "from-notifications": 1
 }
